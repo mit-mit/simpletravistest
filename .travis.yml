@@ -2,5 +2,6 @@ language: dart
 os:
 - linux
 - osx
+- windows
 dart_task:
 - dartanalyze
